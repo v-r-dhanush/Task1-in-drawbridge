@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "s6pYW2rzB+mPj6KABOXGa1s8gCWGpmNCYulUWIZ+1AA=",
+  "Source": "LoginPage",
+  "BasePath": "_content/LoginPage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LoginPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|d:\\project\\loginpage\\loginpage\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|d:\\project\\loginpage\\loginpage\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|d:\\project\\loginpage\\loginpage\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|d:\\project\\loginpage\\loginpage\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69EC22FA-1395-463C-8EA2-E9E47E4C1FBF}|LoginPage\\LoginPage.csproj|solutionrelative:loginpage\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\project\\LoginPage\\LoginPage\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\project\\LoginPage\\LoginPage\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "LoginPage\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:11:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\project\\LoginPage\\LoginPage\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\project\\LoginPage\\LoginPage\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "LoginPage\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:11:02.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "D:\\project\\LoginPage\\LoginPage\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Controllers\\RegisterController.cs",
+              "ToolTip": "D:\\project\\LoginPage\\LoginPage\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "LoginPage\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:09:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\project\\LoginPage\\LoginPage\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginPage\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\project\\LoginPage\\LoginPage\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginPage\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:09:23.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
