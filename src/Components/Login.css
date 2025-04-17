@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+
+  html {
+    font-size: 16px;
+    font-family: "Heebo", sans-serif;
+    font-style: normal;
+  }
+
+  body {
+    height: 100vh;
+    background-image: url(../assests/cover_bg.png);
+    background-color: ghostwhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  .login-container {
+    background-color: white;
+    /* background-image: url(../assests/cover_bg.png); */
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    width: 300px;
+  }
+
+  .login-container h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+
+  .login-container input[type="text"],
+  .login-container input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+
+  .login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #e4873c;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+
+  .login-container button:hover {
+    background: linear-gradient(#9c4905, #e4873c);
+  }
+
+  .login-container .register {
+    margin-top: 1rem;
+    text-align: center;
+  }
+
+  .login-container .register a {
+    color: #2575fc;
+    text-decoration: none;
+  }
+
+  .login-container .register a:hover {
+    text-decoration: underline;
+  }
